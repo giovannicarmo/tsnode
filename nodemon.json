@@ -1,0 +1,7 @@
+{
+  "whatch": ["src"],
+  "ex": "ts",
+  "execMap": {
+    "ts": "sucrase-node src/server.ts"
+  }
+}
